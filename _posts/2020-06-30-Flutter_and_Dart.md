@@ -1,5 +1,5 @@
 ---
-title: "Git 정리"
+title: "Flutter 정리1 (Dart)"
 date: 2020-06-29
 categories: jekyll update
 ---
